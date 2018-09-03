@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "sass": "node-sass ./app/sass/app.scss -o ./app/css/"
+    },
+    "dependencies": {
+        "fs": "0.0.1-security",
+        "http": "0.0.0"
+    }
+}

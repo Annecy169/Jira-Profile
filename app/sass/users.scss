@@ -1,0 +1,67 @@
+.user-profile {
+    margin: auto;
+    width: 24em;
+    height: 11em;
+    background: #f5f5f5;
+    border-radius: 0.3em;
+}
+  
+.Team-Mates {
+    display: flex;
+    margin-top: 50px;
+}
+  
+.User-Details {
+    margin-left: 10em;
+}
+  
+.user-profile .username {
+    margin: auto;
+    margin-top: -4.4em;
+    font-size: 1.53em;
+}
+
+.user-profile .bio {
+    margin: auto;
+    display: inline-block;
+    color: #ec2821;
+    font-family: "Fjalla One", sans-serif;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    padding: 5px 0 5px 0;
+}
+
+.user-profile > .description {
+    margin: auto;
+    margin-top: 1.35em;
+    margin-right: 4.43em;
+    width: 14em;
+    color: #9c9c9c;
+    font-size: 0.87em;
+}
+
+.user-profile > img.avatar {
+    padding: 0.7em;
+    margin-left: 0.3em;
+    margin-top: 0.3em;
+    height: 6.23em;
+    width: 6.23em;
+    border-radius: 18em;
+}
+  
+.user-profile div.data {
+    margin: 2em auto;
+    height: 3.7em;
+    background: #dedede;
+    text-align: center;
+    border-radius: 0 0 0.3em 0.3em;
+    display: flex;
+  
+    span {
+      margin: 0 auto;
+      padding: 1.3em;
+      width: 50%;
+      text-align: center;
+    }
+}
+  
