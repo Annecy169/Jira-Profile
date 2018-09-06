@@ -1,5 +1,5 @@
 .user-profile {
-    margin: auto;
+    margin: auto 30px;
     width: 24em;
     height: 11em;
     background: #f5f5f5;
@@ -8,6 +8,7 @@
   
 .Team-Mates {
     display: flex;
+    justify-content: center;
     margin-top: 50px;
 }
   
